@@ -1,4 +1,4 @@
-# Final-Proje-devi-
+# Final-Proje-Ödevi
 # Öğrenci Not Yönetim Sistemi
 
 C# Windows Forms kullanılarak geliştirilmiş mini projedir.
